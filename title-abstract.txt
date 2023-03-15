@@ -1,5 +1,5 @@
 Title:
-Predicting Pulmonary Edema Using Convolutional Neural Networks and Lung Image Segmentation
+Predicting Pulmonary Edema Using Convolutional Neural Networks and Image Segmentation
 
 Abstract:
 Background 
